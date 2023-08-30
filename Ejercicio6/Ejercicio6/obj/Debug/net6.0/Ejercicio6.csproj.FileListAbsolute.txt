@@ -1,0 +1,15 @@
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\bin\Debug\net6.0\Ejercicio6.exe
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\bin\Debug\net6.0\Ejercicio6.deps.json
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\bin\Debug\net6.0\Ejercicio6.runtimeconfig.json
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\bin\Debug\net6.0\Ejercicio6.dll
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\bin\Debug\net6.0\Ejercicio6.pdb
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.dll
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\refint\Ejercicio6.dll
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.pdb
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\Ejercicio6.genruntimeconfig.cache
+C:\Users\frarug\source\repos\Ejercicio6\Ejercicio6\obj\Debug\net6.0\ref\Ejercicio6.dll

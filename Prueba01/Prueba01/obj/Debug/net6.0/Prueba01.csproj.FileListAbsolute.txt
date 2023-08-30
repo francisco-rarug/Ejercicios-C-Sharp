@@ -1,0 +1,15 @@
+C:\Users\frarug\source\repos\Prueba01\Prueba01\bin\Debug\net6.0\Prueba01.exe
+C:\Users\frarug\source\repos\Prueba01\Prueba01\bin\Debug\net6.0\Prueba01.deps.json
+C:\Users\frarug\source\repos\Prueba01\Prueba01\bin\Debug\net6.0\Prueba01.runtimeconfig.json
+C:\Users\frarug\source\repos\Prueba01\Prueba01\bin\Debug\net6.0\Prueba01.dll
+C:\Users\frarug\source\repos\Prueba01\Prueba01\bin\Debug\net6.0\Prueba01.pdb
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.csproj.AssemblyReference.cache
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.AssemblyInfoInputs.cache
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.AssemblyInfo.cs
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.csproj.CoreCompileInputs.cache
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.dll
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\refint\Prueba01.dll
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.pdb
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\Prueba01.genruntimeconfig.cache
+C:\Users\frarug\source\repos\Prueba01\Prueba01\obj\Debug\net6.0\ref\Prueba01.dll
