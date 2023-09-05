@@ -1,0 +1,11 @@
+C:\Users\rarug\source\repos\i02\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\rarug\source\repos\i02\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\rarug\source\repos\i02\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\rarug\source\repos\i02\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
